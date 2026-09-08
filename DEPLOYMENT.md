@@ -19,7 +19,7 @@
    - Click "Advanced settings" > "Secrets"
    - Add your secret:
      ```toml
-     GEMINI_API_KEY = "AIzaSyBendq1WVjyuJtp3wBMOFpHrwWx126wUdI"
+     GEMINI_API_KEY = "Your api key"
      ```
    - Click "Deploy"
 
